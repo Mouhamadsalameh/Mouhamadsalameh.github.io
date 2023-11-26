@@ -63,7 +63,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./nova
+          path: ./public/nova
 
   # Deployment job
   deploy:
