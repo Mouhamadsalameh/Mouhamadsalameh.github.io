@@ -1,0 +1,3 @@
+[submodule "nova/themes/tella"] 
+  path = nova/themes/tella 
+  url = git://https://github.com/opera7133/tella/
