@@ -1,0 +1,12 @@
+[
+  {
+    "title": " You Build Nova.",
+    "image": "/img/front1.jpg",
+    "color": "text-red"
+  },
+  {
+    "title": "You Build Nova...",
+    "image": "/img/front.jpg",
+    "color": "text-white"
+  }
+]
